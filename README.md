@@ -3,6 +3,11 @@
 
 A simple interactive To-Do List application built with HTML, CSS, and JavaScript.
 
+ ## Live Demo
+
+[View the live project](https://walaa-ibrahim03.github.io/todo-list-app/)
+
+
 ## Features
 
 - Add new tasks
